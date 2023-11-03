@@ -1,0 +1,1879 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2023-11-02T11:59:23.446Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Куртки",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2023-11-02T11:59:29.544Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Футболки",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2023-11-02T11:59:35.184Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Худи",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2023-11-02T11:59:45.471Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "sela",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2023-11-02T12:01:18.353Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "ImageProduct object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2023-11-02T12:01:29.475Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Рубашки",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2023-11-02T12:32:45.787Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Джинсовая рубашка свободного кроя",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2023-11-02T12:33:27.908Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Джинсовая рубашка свободного кроя",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2023-11-02T12:34:12.516Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "ImageProduct object (2)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2023-11-02T12:34:32.378Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Джинсовая рубашка свободного кроя",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2023-11-02T12:35:36.304Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "ImageProduct object (3)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2023-11-02T12:35:46.894Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "ALEX OVERSIZE FIT",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2023-11-02T12:36:40.354Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "ImageProduct object (4)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2023-11-02T12:36:51.688Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "sela х I’m Siberian",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2023-11-02T12:37:53.616Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "ImageProduct object (5)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2023-11-02T12:38:08.167Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "Утепленная куртка",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2023-11-02T12:38:50.378Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "ImageProduct object (6)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2023-11-02T12:39:05.313Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "Regular Fit",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2023-11-02T12:39:58.112Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "ImageProduct object (7)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2023-11-02T12:40:07.197Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "7",
+    "object_repr": "Kуртка из коллекции sela х I’m Siberian",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2023-11-02T12:41:03.242Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "8",
+    "object_repr": "ImageProduct object (8)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2023-11-02T12:41:18.945Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Базовое худи Regular",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2023-11-02T12:42:04.082Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "9",
+    "object_repr": "ImageProduct object (9)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2023-11-02T12:42:13.392Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Джинсы",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2023-11-02T12:42:22.552Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "9",
+    "object_repr": "Carrot Fit с вареным эффектом",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2023-11-02T12:42:59.730Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "10",
+    "object_repr": "ImageProduct object (10)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2023-11-02T12:43:11.703Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "10",
+    "object_repr": "Базовые джинсы",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2023-11-02T12:44:36.238Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "11",
+    "object_repr": "ImageProduct object (11)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2023-11-02T12:44:43.645Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "11",
+    "object_repr": "Вельветовая рубашка",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2023-11-02T12:45:30.715Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "12",
+    "object_repr": "ImageProduct object (12)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2023-11-02T12:45:41.542Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "12",
+    "object_repr": "Regular Fit с накладными боковыми карманами",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2023-11-02T12:46:20.776Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "13",
+    "object_repr": "ImageProduct object (13)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2023-11-02T12:46:41.916Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "13",
+    "object_repr": "Рубашка из плотного хлопкового вельвета",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2023-11-02T12:47:16.809Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "14",
+    "object_repr": "ImageProduct object (14)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2023-11-02T12:47:32.997Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "14",
+    "object_repr": "Базовая водолазка Regular Fit",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2023-11-02T12:55:06.409Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "9",
+    "object_repr": "Carrot Fit с вареным эффектом",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0426\\u0435\\u043d\\u0430\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2023-11-02T13:00:04.673Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "15",
+    "object_repr": "ImageProduct object (15)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2023-11-02T13:00:16.258Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Обувь",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2023-11-02T13:00:30.845Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "Rick Owens",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2023-11-02T13:00:37.578Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "15",
+    "object_repr": "Rick Owens Ramon",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2023-11-02T13:06:35.658Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "16",
+    "object_repr": "ImageProduct object (16)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2023-11-02T13:06:38.978Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "15",
+    "object_repr": "Rick Owens Ramon",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0418\\u0437\\u043e\\u0431\\u0440\\u0430\\u0436\\u0435\\u043d\\u0438\\u0435\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2023-11-02T13:07:49.918Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "15",
+    "object_repr": "Rick Owens Ramon",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2023-11-02T13:08:33.054Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "16",
+    "object_repr": "ImageProduct object (16)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2023-11-02T13:08:33.099Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "15",
+    "object_repr": "ImageProduct object (15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2023-11-03T04:21:11.574Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "1",
+    "object_repr": "Order object (1)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2023-11-03T04:53:07.040Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "3",
+    "object_repr": "Order object (3)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2023-11-03T04:53:07.044Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "2",
+    "object_repr": "Order object (2)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2023-11-03T04:56:23.322Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "4",
+    "object_repr": "Order object (4)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2023-11-03T06:01:04.556Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "10",
+    "object_repr": "Order object (10)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2023-11-03T06:01:04.560Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "9",
+    "object_repr": "Order object (9)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2023-11-03T06:01:04.563Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "8",
+    "object_repr": "Order object (8)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2023-11-03T06:01:04.568Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "7",
+    "object_repr": "Order object (7)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2023-11-03T06:01:04.570Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "6",
+    "object_repr": "Order object (6)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2023-11-03T06:01:04.574Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "5",
+    "object_repr": "Order object (5)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2023-11-03T06:01:04.579Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "4",
+    "object_repr": "Order object (4)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2023-11-03T06:01:04.581Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "3",
+    "object_repr": "Order object (3)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2023-11-03T06:01:04.585Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "2",
+    "object_repr": "Order object (2)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2023-11-03T06:01:04.587Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "1",
+    "object_repr": "Order object (1)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2023-11-03T06:14:34.952Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "23",
+    "object_repr": "Order object (23)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2023-11-03T06:14:34.958Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "22",
+    "object_repr": "Order object (22)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2023-11-03T06:14:34.963Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "21",
+    "object_repr": "Order object (21)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2023-11-03T06:14:34.968Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "20",
+    "object_repr": "Order object (20)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2023-11-03T06:14:34.973Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "19",
+    "object_repr": "Order object (19)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2023-11-03T06:14:34.979Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "18",
+    "object_repr": "Order object (18)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2023-11-03T06:14:34.982Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "17",
+    "object_repr": "Order object (17)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2023-11-03T06:14:34.987Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "16",
+    "object_repr": "Order object (16)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2023-11-03T06:14:34.991Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "15",
+    "object_repr": "Order object (15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2023-11-03T06:14:34.996Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "14",
+    "object_repr": "Order object (14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 70,
+  "fields": {
+    "action_time": "2023-11-03T06:14:35.001Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "13",
+    "object_repr": "Order object (13)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 71,
+  "fields": {
+    "action_time": "2023-11-03T06:14:35.006Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "12",
+    "object_repr": "Order object (12)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 72,
+  "fields": {
+    "action_time": "2023-11-03T06:14:35.010Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "11",
+    "object_repr": "Order object (11)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 73,
+  "fields": {
+    "action_time": "2023-11-03T06:16:00.772Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "24",
+    "object_repr": "Order object (24)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add Категория",
+    "content_type": 7,
+    "codename": "add_categories"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change Категория",
+    "content_type": 7,
+    "codename": "change_categories"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete Категория",
+    "content_type": 7,
+    "codename": "delete_categories"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view Категория",
+    "content_type": 7,
+    "codename": "view_categories"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add Изображение товара",
+    "content_type": 8,
+    "codename": "add_imageproduct"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change Изображение товара",
+    "content_type": 8,
+    "codename": "change_imageproduct"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete Изображение товара",
+    "content_type": 8,
+    "codename": "delete_imageproduct"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view Изображение товара",
+    "content_type": 8,
+    "codename": "view_imageproduct"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add Поставщик",
+    "content_type": 9,
+    "codename": "add_manufacturers"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change Поставщик",
+    "content_type": 9,
+    "codename": "change_manufacturers"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete Поставщик",
+    "content_type": 9,
+    "codename": "delete_manufacturers"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view Поставщик",
+    "content_type": 9,
+    "codename": "view_manufacturers"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add Товар",
+    "content_type": 10,
+    "codename": "add_products"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change Товар",
+    "content_type": 10,
+    "codename": "change_products"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete Товар",
+    "content_type": 10,
+    "codename": "delete_products"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view Товар",
+    "content_type": 10,
+    "codename": "view_products"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add category",
+    "content_type": 11,
+    "codename": "add_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change category",
+    "content_type": 11,
+    "codename": "change_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete category",
+    "content_type": 11,
+    "codename": "delete_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view category",
+    "content_type": 11,
+    "codename": "view_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 45,
+  "fields": {
+    "name": "Can add Пост",
+    "content_type": 12,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 46,
+  "fields": {
+    "name": "Can change Пост",
+    "content_type": 12,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 47,
+  "fields": {
+    "name": "Can delete Пост",
+    "content_type": 12,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 48,
+  "fields": {
+    "name": "Can view Пост",
+    "content_type": 12,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 49,
+  "fields": {
+    "name": "Can add Заказ",
+    "content_type": 13,
+    "codename": "add_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 50,
+  "fields": {
+    "name": "Can change Заказ",
+    "content_type": 13,
+    "codename": "change_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 51,
+  "fields": {
+    "name": "Can delete Заказ",
+    "content_type": 13,
+    "codename": "delete_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 52,
+  "fields": {
+    "name": "Can view Заказ",
+    "content_type": 13,
+    "codename": "view_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 53,
+  "fields": {
+    "name": "Can add Корзина",
+    "content_type": 14,
+    "codename": "add_cart"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 54,
+  "fields": {
+    "name": "Can change Корзина",
+    "content_type": 14,
+    "codename": "change_cart"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 55,
+  "fields": {
+    "name": "Can delete Корзина",
+    "content_type": 14,
+    "codename": "delete_cart"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 56,
+  "fields": {
+    "name": "Can view Корзина",
+    "content_type": 14,
+    "codename": "view_cart"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$R5WjNzWC0X5LBkM4pStSRM$fivwRUMfxEoboNBr3BsTs+wpTk6coWClswENDFiqG1I=",
+    "last_login": "2023-11-03T06:40:39.400Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-11-02T11:59:00.084Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "jta7f42rtj370tgwthvkzkycc3znvvah",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEgb5fu-w0EZgapGkhKuzL-uzbpQrf3nHNfLKZtrXEbtMQZ2YVJdvrdcoIHtR3gPbVb59DbusyZ7wo_6OBTR3peD_fvoKZRv7VyumQbrNJElBKAsoRoAnnQ0oMxITuvQimOAM-iBIHFIGqvQaAQkr0_Be04qQ:1qynrD:254OKvxeHG5aSn94jetT9GOJjl04sJURzYaLcMYKzek",
+    "expire_date": "2023-11-17T06:40:39.417Z"
+  }
+},
+{
+  "model": "shoopelectonic.categories",
+  "pk": 1,
+  "fields": {
+    "category_name": "Куртки"
+  }
+},
+{
+  "model": "shoopelectonic.categories",
+  "pk": 2,
+  "fields": {
+    "category_name": "Футболки"
+  }
+},
+{
+  "model": "shoopelectonic.categories",
+  "pk": 3,
+  "fields": {
+    "category_name": "Худи"
+  }
+},
+{
+  "model": "shoopelectonic.categories",
+  "pk": 4,
+  "fields": {
+    "category_name": "Рубашки"
+  }
+},
+{
+  "model": "shoopelectonic.categories",
+  "pk": 5,
+  "fields": {
+    "category_name": "Джинсы"
+  }
+},
+{
+  "model": "shoopelectonic.categories",
+  "pk": 6,
+  "fields": {
+    "category_name": "Обувь"
+  }
+},
+{
+  "model": "shoopelectonic.manufacturers",
+  "pk": 1,
+  "fields": {
+    "manufacture_name": "sela"
+  }
+},
+{
+  "model": "shoopelectonic.manufacturers",
+  "pk": 2,
+  "fields": {
+    "manufacture_name": "Rick Owens"
+  }
+},
+{
+  "model": "shoopelectonic.imageproduct",
+  "pk": 1,
+  "fields": {
+    "image": "product_img/671559.932x1242.jpg"
+  }
+},
+{
+  "model": "shoopelectonic.imageproduct",
+  "pk": 2,
+  "fields": {
+    "image": "product_img/671559.932x1242.jpg"
+  }
+},
+{
+  "model": "shoopelectonic.imageproduct",
+  "pk": 3,
+  "fields": {
+    "image": "product_img/671554.932x1242.jpg"
+  }
+},
+{
+  "model": "shoopelectonic.imageproduct",
+  "pk": 4,
+  "fields": {
+    "image": "product_img/667668.932x1242.jpg"
+  }
+},
+{
+  "model": "shoopelectonic.imageproduct",
+  "pk": 5,
+  "fields": {
+    "image": "product_img/667676.932x1242.jpg"
+  }
+},
+{
+  "model": "shoopelectonic.imageproduct",
+  "pk": 6,
+  "fields": {
+    "image": "product_img/664506.932x1242.jpg"
+  }
+},
+{
+  "model": "shoopelectonic.imageproduct",
+  "pk": 7,
+  "fields": {
+    "image": "product_img/667681.932x1242.jpg"
+  }
+},
+{
+  "model": "shoopelectonic.imageproduct",
+  "pk": 8,
+  "fields": {
+    "image": "product_img/664500.932x1242.jpg"
+  }
+},
+{
+  "model": "shoopelectonic.imageproduct",
+  "pk": 9,
+  "fields": {
+    "image": "product_img/664987.932x1242.jpg"
+  }
+},
+{
+  "model": "shoopelectonic.imageproduct",
+  "pk": 10,
+  "fields": {
+    "image": "product_img/664981.932x1242.jpg"
+  }
+},
+{
+  "model": "shoopelectonic.imageproduct",
+  "pk": 11,
+  "fields": {
+    "image": "product_img/665654.932x1242.jpg"
+  }
+},
+{
+  "model": "shoopelectonic.imageproduct",
+  "pk": 12,
+  "fields": {
+    "image": "product_img/665746.932x1242.jpg"
+  }
+},
+{
+  "model": "shoopelectonic.imageproduct",
+  "pk": 13,
+  "fields": {
+    "image": "product_img/665648.932x1242.jpg"
+  }
+},
+{
+  "model": "shoopelectonic.imageproduct",
+  "pk": 14,
+  "fields": {
+    "image": "product_img/657794.932x1242.jpg"
+  }
+},
+{
+  "model": "shoopelectonic.products",
+  "pk": 2,
+  "fields": {
+    "product_name": "Джинсовая рубашка свободного кроя",
+    "description": "Джинсовая рубашка свободного кроя",
+    "price": 3000,
+    "alt_price": 3000,
+    "img": 2,
+    "category": 4,
+    "manufacture": 1,
+    "sale": 0,
+    "besteller": true,
+    "new_product": true,
+    "sale_products": false
+  }
+},
+{
+  "model": "shoopelectonic.products",
+  "pk": 3,
+  "fields": {
+    "product_name": "ALEX OVERSIZE FIT",
+    "description": "Базовая футболка Alex Oversize Fit\r\n\r\n- Мягкий трикотаж из мягкого плотного полотна интерлок\r\n- Удлиненный рукав, спущенная линия плеч\r\n- Круглый вырез с рельефной вставкой\r\n- Однотонный дизайн для расслабленных повседневных образов",
+    "price": 900,
+    "alt_price": 1000,
+    "img": 3,
+    "category": 2,
+    "manufacture": 1,
+    "sale": 10,
+    "besteller": false,
+    "new_product": true,
+    "sale_products": true
+  }
+},
+{
+  "model": "shoopelectonic.products",
+  "pk": 4,
+  "fields": {
+    "product_name": "sela х I’m Siberian",
+    "description": "Лимитированная коллекция sela х I’m Siberian продолжает тему сезона «Время семейных путешествий» и представляет собой полный ассортимент одежды и аксессуаров для всей семьи, включая женскую, мужскую и детскую капсулу. Особое внимание в коллекции уделено согревающим свойствам вещей, которые идеально подойдут для долгих прогулок и зимних путешествий. Каждая вещь украшена узнаваемыми символами Сибири: замерзшее озеро Байкал, снежные пейзажи и льдины. Особое настроение добавляют и акцентные принты с фразами: «From Siberia with frost», «Сибирь вдохновляет!» и другие. Все образы из коллекции sela х I’m Siberian хорошо сочетаются между собой, что позволяет собирать стильные луки для всей семьи.",
+    "price": 2000,
+    "alt_price": 2000,
+    "img": 4,
+    "category": 3,
+    "manufacture": 1,
+    "sale": 0,
+    "besteller": true,
+    "new_product": true,
+    "sale_products": false
+  }
+},
+{
+  "model": "shoopelectonic.products",
+  "pk": 5,
+  "fields": {
+    "product_name": "Утепленная куртка",
+    "description": "Лимитированная коллекция sela х I’m Siberian продолжает тему сезона «Время семейных путешествий» и представляет собой полный ассортимент одежды и аксессуаров для всей семьи, включая женскую, мужскую и детскую капсулу. Особое внимание в коллекции уделено согревающим свойствам вещей, которые идеально подойдут для долгих прогулок и зимних путешествий. Каждая вещь украшена узнаваемыми символами Сибири: замерзшее озеро Байкал, снежные пейзажи и льдины.",
+    "price": 5250,
+    "alt_price": 7000,
+    "img": 5,
+    "category": 1,
+    "manufacture": 1,
+    "sale": 25,
+    "besteller": false,
+    "new_product": true,
+    "sale_products": true
+  }
+},
+{
+  "model": "shoopelectonic.products",
+  "pk": 6,
+  "fields": {
+    "product_name": "Regular Fit",
+    "description": "Базовое худи Regular Fit из футера с начесом\r\n\r\n- Свободный прямой крой, спущенное плечо, длинный рукав\r\n- Капюшон с регулировкой, карман-кенгуру, эластичные манжеты и низ в рубчик\r\n- Изнанка с начесом, однотонный дизайн",
+    "price": 2250,
+    "alt_price": 2500,
+    "img": 6,
+    "category": 3,
+    "manufacture": 1,
+    "sale": 10,
+    "besteller": true,
+    "new_product": true,
+    "sale_products": true
+  }
+},
+{
+  "model": "shoopelectonic.products",
+  "pk": 7,
+  "fields": {
+    "product_name": "Kуртка из коллекции sela х I’m Siberian",
+    "description": "Утепленная куртка из лимитированной коллекции sela х I'm Siberian\r\n\r\n- Свободный крой, длинный рукав, прорезные карманы на молнии\r\n- Фронтальная застежка на молнии и кнопки закрыта ветрозащитной планкой\r\n- Несъемный капюшон с утяжками со стопперами, эластичные манжеты\r\n- Двухцветный дизайн в стиле колорблок\r\n- Вес утеплителя: 600 г",
+    "price": 8000,
+    "alt_price": 8000,
+    "img": 7,
+    "category": 1,
+    "manufacture": 1,
+    "sale": 0,
+    "besteller": true,
+    "new_product": true,
+    "sale_products": false
+  }
+},
+{
+  "model": "shoopelectonic.products",
+  "pk": 8,
+  "fields": {
+    "product_name": "Базовое худи Regular",
+    "description": "Базовое худи Regular Fit из футера с начесом\r\n\r\n- Свободный прямой крой, спущенное плечо, длинный рукав\r\n- Капюшон с регулировкой, карман-кенгуру, эластичные манжеты и низ в рубчик\r\n- Изнанка с начесом, однотонный дизайн",
+    "price": 3000,
+    "alt_price": 3000,
+    "img": 8,
+    "category": 3,
+    "manufacture": 1,
+    "sale": 0,
+    "besteller": true,
+    "new_product": false,
+    "sale_products": false
+  }
+},
+{
+  "model": "shoopelectonic.products",
+  "pk": 9,
+  "fields": {
+    "product_name": "Carrot Fit с вареным эффектом",
+    "description": "Базовые джинсы Carrot Fit с вареным эффектом\r\n\r\n- Силуэт свободный в бедрах и зауженный к низу\r\n\r\n- Шлевки для ремня, застежка на молнию и пуговицу, пять карманов, полная длина\r\n\r\n- Базовая модель из плотного денима",
+    "price": 1800,
+    "alt_price": 2000,
+    "img": 9,
+    "category": 5,
+    "manufacture": 1,
+    "sale": 10,
+    "besteller": false,
+    "new_product": true,
+    "sale_products": true
+  }
+},
+{
+  "model": "shoopelectonic.products",
+  "pk": 10,
+  "fields": {
+    "product_name": "Базовые джинсы",
+    "description": "Базовые джинсы Carrot Fit с вареным эффектом\r\n\r\n- Силуэт свободный в бедрах и зауженный к низу\r\n\r\n- Шлевки для ремня, застежка на молнию и пуговицу, пять карманов, полная длина\r\n\r\n- Базовая модель из плотного денима",
+    "price": 2250,
+    "alt_price": 2500,
+    "img": 10,
+    "category": 5,
+    "manufacture": 1,
+    "sale": 10,
+    "besteller": true,
+    "new_product": true,
+    "sale_products": true
+  }
+},
+{
+  "model": "shoopelectonic.products",
+  "pk": 11,
+  "fields": {
+    "product_name": "Вельветовая рубашка",
+    "description": "Рубашка из плотного хлопкового вельвета\r\n\r\n- Свободный прямой крой, отложной воротник, длинный рукав\r\n\r\n- Спущенное плечо, фронтальная застежка и манжеты на пуговицах\r\n\r\n- Нагрудный накладной карман, на спинке складки для более свободной посадки\r\n\r\n- Базовый однотонный дизайн",
+    "price": 3000,
+    "alt_price": 3000,
+    "img": 11,
+    "category": 4,
+    "manufacture": 1,
+    "sale": 0,
+    "besteller": false,
+    "new_product": true,
+    "sale_products": false
+  }
+},
+{
+  "model": "shoopelectonic.products",
+  "pk": 12,
+  "fields": {
+    "product_name": "Regular Fit с накладными боковыми карманами",
+    "description": "Джинсы Regular Fit с накладными боковыми карманами\r\n- Плотный твил из 100% хлопка\r\n- Расслабленный прямой крой со средней посадкой талии\r\n- Классическая застежка на молнию и пуговицу, шлевки для ремня, полная длина",
+    "price": 2700,
+    "alt_price": 3000,
+    "img": 12,
+    "category": 5,
+    "manufacture": 1,
+    "sale": 10,
+    "besteller": false,
+    "new_product": true,
+    "sale_products": true
+  }
+},
+{
+  "model": "shoopelectonic.products",
+  "pk": 13,
+  "fields": {
+    "product_name": "Рубашка из плотного хлопкового вельвета",
+    "description": "Рубашка из плотного хлопкового вельвета\r\n\r\n- Свободный прямой крой, отложной воротник, длинный рукав\r\n\r\n- Спущенное плечо, фронтальная застежка и манжеты на пуговицах\r\n\r\n- Нагрудный накладной карман, на спинке складки для более свободной посадки\r\n\r\n- Базовый однотонный дизайн",
+    "price": 2500,
+    "alt_price": 2500,
+    "img": 13,
+    "category": 4,
+    "manufacture": 1,
+    "sale": 0,
+    "besteller": true,
+    "new_product": true,
+    "sale_products": false
+  }
+},
+{
+  "model": "shoopelectonic.products",
+  "pk": 14,
+  "fields": {
+    "product_name": "Базовая водолазка Regular Fit",
+    "description": "Базовая водолазка Regular Fit с воротником-стойкой\r\n\r\n- Мягкий приятный к телу трикотаж из смесовой вискозы\r\n- Свободный прямой крой со спущенной линией плеча\r\n- Длинный свободный рукав, рельефные манжеты и низ изделия\r\n- Базовый однотонный дизайн\r\n\r\nНа модели размер L",
+    "price": 2520,
+    "alt_price": 2800,
+    "img": 14,
+    "category": 4,
+    "manufacture": 1,
+    "sale": 10,
+    "besteller": false,
+    "new_product": true,
+    "sale_products": true
+  }
+},
+{
+  "model": "cart.order",
+  "pk": 25,
+  "fields": {
+    "first_name": "awf",
+    "last_name": "awfwaf",
+    "company": "awfawfaw",
+    "email": "awd@awd.war",
+    "phone": "awfawf",
+    "address": "awfawf",
+    "postcode": "awfwaf",
+    "city": "awfwaf",
+    "comment": "",
+    "price": 7250,
+    "status": "DE",
+    "data_create": "2023-11-03T06:48:44.081Z",
+    "user": 1,
+    "product": [
+      4,
+      5
+    ]
+  }
+}
+]

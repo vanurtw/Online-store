@@ -1,0 +1,90 @@
+{% extends 'base.html' %}
+{% load static %}
+
+
+{% block content %}
+    {% include 'header.html' %}
+
+
+
+
+        <!--hero-section-->
+<!--        <div class="container container-fullwidth">-->
+
+<!--            <div class="hero-section">-->
+<!--                <img src="{% static 'img/homeclean_1.jpg'%}" alt="" class="img-reponsive">-->
+<!--                <div class="box-center v2">-->
+
+<!--                    <h1 class="page-title" _msttexthash="1610349" _msthash="90" style="color:black">OUR BLOG</h1>-->
+
+
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+
+
+
+        <div class="banner-heading">
+            <img src="{% static 'img/homeclean_1.jpg' %}" alt="" class="img-reponsive">
+            <div class="heading-content text-center">
+                <div class="container container-42">
+                    <h1 class="page-title white" style="color:black">OUR BLOG</h1>
+                    <ul class="breadcrumb white">
+                        <li><a class="a-deactivate" href="" style="color:#626262">High fashion is something that is born in a person</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+
+        <!--end hero-section-->
+        <div class="main-container blog--grid">
+            <div class="container">
+                <div class="row">
+                    {% for i in posts %}
+
+
+                    <div class="col-xs-6 col-sm-4 col-md-4 col-lg-4">
+                        <div class="blog-post-item item-grid">
+                            <a class="hover-images" href="{{i.get_absolute_url}}">
+                            <img src="{{ i.image.url }}" alt="" class="img-reponsive">
+                        </a>
+                            <div class="post-metas ver--grid">
+                                <div class="categories">
+                                    <a href="#" rel="category tag" _msttexthash="955994" _msthash="94">КРАСОТА</a>
+                                </div>
+                                <span class="post-comments-number" _msttexthash="4641" _msthash="95">3</span>
+                            </div>
+                            <div class="blog-post-info">
+                                <div class="post-date" _msttexthash="1532310" _msthash="96">{{i.data_create|date:"d F Y"}}г.</div>
+                                <h3 class="post-name"><a href="#" _msttexthash="12815647" _msthash="97">{{i}}</a></h3>
+                            </div>
+                        </div>
+                    </div>
+
+
+                {% endfor %}
+
+
+
+                </div>
+                <div class="nav-button text-center">
+                    <a class="btn-loadmore"><i class="icon-refresh f-15"></i><font _mstmutation="1" _msttexthash="2112188" _msthash="130">Загрузить еще</font></a>
+                </div>
+            </div>
+        </div>
+
+
+
+    {% include 'footer.html' %}
+    </div>
+    <a href="#" class="scroll_top" style="display: none;"><font _mstmutation="1" _msttexthash="3173950" _msthash="136">ПРОЛИСТАТЬ НАВЕРХ</font><span></span></a>
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/slick.min.js"></script>
+    <script src="js/masonry.pkgd.min.js"></script>
+    <script src="js/main.js"></script>
+
+
+{% endblock %}

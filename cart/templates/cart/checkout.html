@@ -1,0 +1,77 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="wrappage">
+    {% include 'header.html' %}
+    <div class="main-content space-padding-tb-70">
+        <div class="container">
+            <form name="checkout" method="post" class="checkout" action="">
+                {% csrf_token %}
+
+                <div class="cart-box-container-ver2">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <h3>Billing Details</h3>
+                            <div class="row form-customer">
+                                {{form.non_field_errors}}
+                                {% for i in form %}
+                                {% if i.label in 'Company,Address' %}
+                                <div class="form-group col-md-12">
+                                    <label for="inputcompany" class=" control-label">{{i.label}}</label>
+                                    {{i}}
+                                </div>
+                                {% elif i.label == 'Comment on the order'%}
+                                <div class="form-group col-md-12">
+                                    <label for="inputfState" class=" control-label">{{i.label}}</label>
+                                    {{i}}
+                                </div>
+                                {% else %}
+                                <div class="form-group col-md-6">
+                                    <label class=" control-label">{{i.label}}</label>
+                                    {{i}}
+                                    {{i.errors}}
+                                </div>
+                                {% endif %}
+                                {% endfor %}
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <h3>Your order</h3>
+                            <div class="cart-list">
+                                <ul class="list">
+                                    {% for i in cart %}
+                                    <li class="flex">
+                                        <a href="{% url 'product' i.product.id %}" title="" class="cart-product-image"><img
+                                                src="{{i.product.img.image.url}}" alt="Product"></a>
+                                        <div class="text">
+                                            <p class="product-name">{{i}}</p>
+                                            <div class="quantity p-color">{{i.quantitu}} шт.</div>
+                                            <p class="product-price p-color">{{i.product.price}} руб.</p>
+                                        </div>
+                                    </li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                            <h3>Cart Totals</h3>
+                            <div class="text-price">
+                                <ul>
+                                    <li><span class="text">Subtotal</span><span class="number">{{sum_total}} руб.</span>
+                                    </li>
+                                </ul>
+                            </div>
+                            <input type="submit" class="btn link-button hover-white btn-checkout"
+                                   title="Proceed to checkout" value="Place order">
+                        </div>
+                    </div>
+                </div>
+
+            </form>
+        </div>
+    </div>
+    {% include 'footer.html' %}
+
+
+</div>
+
+{% endblock %}

@@ -1,0 +1,177 @@
+{% extends 'base.html' %}
+
+{% block content %}
+{% include 'header.html' %}
+
+
+<div class="main-container no-sidebar single-post v2">
+    <div class="container">
+        <div class="row">
+<!--            <div class="post-image col-xs-12 col-sm-12 col-md-12">-->
+<!--                <img src={{post.image.url}} alt="" class="img-reponsive">-->
+<!--            </div>-->
+            <div class="main-content col-xs-12 col-md-12 col-lg-8 col-lg-offset-2">
+                <div class="blog-post-container blog-page">
+                    <div class="blog-post-single blog-post-item">
+                        <div class="blog-post-info">
+                            <div class="post-date">{{post.data_create|date:'d.m.Y'}}</div>
+                            <h3 class="post-name ver2"><a href="#">{{post.title}}</a></h3>
+                        </div>
+                        <div class="post-metas ver2">
+                            <div class="categories">
+                                <a href="#" rel="category tag">BEAUTY</a>,
+                                <a href="#" rel="category tag">FASHION</a>
+                            </div>
+                        </div>
+                        <div class="post-content">
+                            <div class="post-text v3">
+                                <p>{{post.content}}</p>
+                                <h5 class="title-underline v2">SHOP THE LOOK</h5>
+                                <div class="widget-insta-grid">
+                                    <script src='https://snapppt.com/widgets/widget_loader/2f8cda43-f8ab-49ae-aace-495f59e57290/grid.js'
+                                            defer class='snapppt-widget'></script>
+                                </div>
+                                <p>Standards compliant potentialities with business process improvements.
+                                    Authoritatively reinvent cross-unit catalysts for change before high-quality
+                                    outsourcing. Uniquely predominate technically sound web-readiness rather than cost
+                                    effective solutions. Phosfluorescently synergize.</p>
+                                <p>&nbsp;</p>
+
+                            </div>
+
+
+
+
+
+                            <div class="post-related">
+                                <h3 class="post-title widget-title">You Might Also Like</h3>
+                                <div class="post-related-slide">
+                                    <div class="row">
+
+                                        <div class="col-xs-6 col-sm-6 col-md-6">
+                                            {% for i in posts %}
+                                            <div class="blog-post-item post-item">
+                                                <div class="blog-post-img">
+                                                    <a class="hover-images" href="#"><img src={{i.image.url}}
+                                                                                          alt="blog-img"
+                                                                                          class="img-reponsive img-posts"></a>
+                                                </div>
+                                                <div class="blog-post-info v2">
+                                                    <div class="post-date">{{i.data_create|date:'d.m.Y'}}</div>
+                                                    <h3 class="post-name"><a href="#">What a beautiful design!</a></h3>
+                                                </div>
+                                            </div>
+                                            {% endfor %}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                            <div class="post-comments">
+                                <h3 class="post-comments-title widget-title">Comments (4)</h3>
+                                <ul class="commentlist">
+                                    <li>
+                                        <div class="comment">
+                                            <div class="avatar">
+                                                <a href="#"><img src="img/blog/about5.jpg" alt="images"
+                                                                 class="img-responsive"></a>
+                                            </div>
+                                            <div class="comment-box">
+                                                <div class="first-box">
+                                                    <div class="comment-author-meta">
+                                                        <strong>Darnell Patterson</strong>
+                                                        <div class="date">December 29, 2016</div>
+                                                    </div>
+                                                    <div class="comment-post-reply">
+                                                        <a href="#" class="comment-reply">Reply</a>
+                                                    </div>
+                                                </div>
+                                                <div class="comment-content">
+                                                    Competently leverage other's resource maximizing e-commerce and
+                                                    customer directed benefits. Progressively communicate progressive
+                                                    communities without value-added expertise. Distinctively pursue
+                                                    enterprise action.
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <ul class="comment-child">
+                                            <li>
+                                                <div class="comment">
+                                                    <div class="avatar">
+                                                        <a href="#"><img src="img/blog/about5.jpg" alt="images"
+                                                                         class="img-responsive"></a>
+                                                    </div>
+                                                    <div class="comment-box">
+                                                        <div class="first-box">
+                                                            <div class="comment-author-meta">
+                                                                <strong>Darnell Patterson</strong>
+                                                                <div class="date">December 29, 2016</div>
+                                                            </div>
+                                                            <div class="comment-post-reply">
+                                                                <a href="#" class="comment-reply">Reply</a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="comment-content">
+                                                            Competently leverage other's resource maximizing e-commerce
+                                                            and customer directed benefits. Progressively communicate
+                                                            progressive communities without value-added expertise.
+                                                            Distinctively pursue enterprise action.
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </li>
+
+
+
+                                </ul>
+                            </div>
+                            <div class="post-reply">
+                                <h3 class="post-title widget-title">Leave A Reply</h3>
+                                <form action="#" class="comment-form">
+                                    <div class="form-group">
+                                        <div class="row">
+                                            <div class="col-md-6 col-xs-12">
+                                                <label>First Name *</label>
+                                                <input type="text" name="first_name" class="form-control" value="">
+                                            </div>
+                                            <div class="col-md-6 col-xs-12">
+                                                <label>Email *</label>
+                                                <input type="text" name="last_name" class="form-control" value="">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <label>Your Comments</label>
+                                                <textarea name="note" id="message" tabindex="2"
+                                                          class="form-control"></textarea>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <button type="submit" class="btn btn-submit">Submit</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+{% include 'footer.html' %}
+</div>
+<a href="#" class="scroll_top">SCROLL TO TOP<span></span></a>
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/slick.min.js"></script>
+<script src="js/masonry.pkgd.min.js"></script>
+<script src="js/main.js"></script>
+{% endblock %}
